@@ -1,5 +1,3 @@
-import pytest
-
 
 # power function take two parameters a and n
 def power(a, n):
